@@ -1,7 +1,0 @@
-.banner { 
-max-width:100%;
-position: relative; 
-overflow: auto; }
-.banner ul { margin: 0; padding: 0; } /*this little piece of code gets rid of the left padding 20px gap*/
-.banner li { list-style: none;}
-.banner ul li { float: left;}
